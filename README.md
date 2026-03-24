@@ -25,5 +25,9 @@ This project presents an interactive Excel dashboard built to analyze sales data
 - sales_dashboard.xlsx → Final dashboard
 - train.csv → Dataset
 
+## 📷 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## 👨‍💻 Author
 Arnav Dasmal
